@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbd956e9-c665-4fed-97a8-f58d1e191152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/templates/blog/Post_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/templates/blog/Post_edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/templates/blog/Post_new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/templates/blog/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro_projeto/blog/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="cbd956e9-c665-4fed-97a8-f58d1e191152" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/primeiro_projeto/blog" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mKxC3BTE4iTYDg8xbXgqlxLODo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
